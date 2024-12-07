@@ -1,5 +1,7 @@
 # Customer-Churn-Analysis
 
+![Customer Churn Photo](./Data/1_YhUxD22DhV3RYB8hXZ1ENg.png)
+
 ### Business Understanding for Customer Churn Classification Project
 
 Customer attrition, or churn, is one of the most significant expenses for any organization. It represents the percentage of customers who discontinue using a company's product or service within a given timeframe. For example, if a company starts the year with 500 customers and ends with 480, the churn rate would be 4%. Understanding and mitigating this churn is crucial for sustaining growth and profitability.
